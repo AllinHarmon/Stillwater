@@ -96,3 +96,6 @@ footer h5 {
 	text-shadow: 2px 2px 2px #fff;
     filter: dropshadow(color=#fff, offx=2, offy=2);
 }
+.nivo-controlNav {
+	margin-top: -57px;
+}
